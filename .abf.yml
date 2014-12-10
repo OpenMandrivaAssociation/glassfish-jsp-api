@@ -1,2 +1,4 @@
+removed_sources:
+  javax.servlet.jsp-api-2.2.1.tar.xz: 97484d595d5b0dfd39df371c647435d58e005407
 sources:
-  "javax.servlet.jsp-api-2.2.1.tar.xz": 97484d595d5b0dfd39df371c647435d58e005407
+  javax.servlet.jsp-api-2.3.1.tar.xz: 613848679e392ca2fcd03ce4f5249da269c04397
