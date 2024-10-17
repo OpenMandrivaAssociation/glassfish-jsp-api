@@ -9,7 +9,7 @@ Release:    4%{?dist}
 Summary:    Glassfish J2EE JSP API specification
 
 License:    (CDDL or GPLv2 with exceptions) and ASL 2.0
-URL:        http://java.net/jira/browse/JSP
+URL:        https://java.net/jira/browse/JSP
 Source0:    %{artifactId}-%{version}.tar.xz
 # no source releases, but this will generate tarball for you from an
 # SVN tag
